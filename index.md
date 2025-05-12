@@ -17,5 +17,8 @@
 - 隔週の火曜日、昼休み(12:30-13:10)
 - 途中入室、途中退室可
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRANwTp03Qosq2d9CPfFZ9EG26ANdDVsy0eA8jnfsiEwC5XpdCUpa7tOhHtkDXfnBAOnbiU-5yAa0-D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRANwTp03Qosq2d9CPfFZ9EG26ANdDVsy0eA8jnfsiEwC5XpdCUpa7tOhHtkDXfnBAOnbiU-5yAa0-D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+  width="400%" height="200%"  
+></iframe>
 

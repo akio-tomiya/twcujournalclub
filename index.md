@@ -1,4 +1,4 @@
-# 東京女子大学理論物理研究室文献紹介
+<!-- # 東京女子大学理論物理研究室文献紹介 -->
 
 # 文献紹介とは?
 毎回、担当者が最新研究のもしくは重要論文を読んできて、みんなの前で発表します。
@@ -22,4 +22,3 @@
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRANwTp03Qosq2d9CPfFZ9EG26ANdDVsy0eA8jnfsiEwC5XpdCUpa7tOhHtkDXfnBAOnbiU-5yAa0-D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
   width="160%" height="700%"  
 ></iframe>
-

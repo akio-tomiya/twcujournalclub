@@ -19,6 +19,6 @@
 
 <iframe 
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRANwTp03Qosq2d9CPfFZ9EG26ANdDVsy0eA8jnfsiEwC5XpdCUpa7tOhHtkDXfnBAOnbiU-5yAa0-D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
-  width="300%" height="500%"  
+  width="100%" height="500%"  
 ></iframe>
 

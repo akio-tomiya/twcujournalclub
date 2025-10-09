@@ -18,7 +18,15 @@
 - 隔週の火曜日、昼休み(12:30-13:10)
 - 途中入室、途中退室可
 
-<iframe 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRANwTp03Qosq2d9CPfFZ9EG26ANdDVsy0eA8jnfsiEwC5XpdCUpa7tOhHtkDXfnBAOnbiU-5yAa0-D/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
-  width="160%" height="700%"  
-></iframe>
+
+<div
+  style="width:100vw; margin-left:calc(50% - 50vw); margin-right:calc(50% - 50vw);
+         overflow-x:auto; -webkit-overflow-scrolling:touch;">
+  <iframe
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRANwTp03Qosq2d9CPfFZ9EG26ANdDVsy0eA8jnfsiEwC5XpdCUpa7tOhHtkDXfnBAOnbiU-5yAa0-D/pubhtml?gid=0&single=true&widget=true&headers=false"
+    title="東京女子大学物理文献紹介2025 : 担当ルーティーン2025fy"
+    loading="lazy"
+    style="display:block; width:100%; height:85vh; min-height:560px; border:0;">
+  </iframe>
+</div>
+

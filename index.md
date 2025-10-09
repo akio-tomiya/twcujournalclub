@@ -20,7 +20,7 @@
 
 
 <div
-  style="width:100vw; margin-left:calc(50% - 50vw); margin-right:calc(50% - 50vw);
+  style="width:80vw; margin-left:calc(50% - 50vw); margin-right:calc(50% - 50vw);
          overflow-x:auto; -webkit-overflow-scrolling:touch;">
   <iframe
     src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRANwTp03Qosq2d9CPfFZ9EG26ANdDVsy0eA8jnfsiEwC5XpdCUpa7tOhHtkDXfnBAOnbiU-5yAa0-D/pubhtml?gid=0&single=true&widget=true&headers=false"

@@ -27,7 +27,7 @@
          overflow-x:auto; -webkit-overflow-scrolling:touch;">
   <iframe
     src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRANwTp03Qosq2d9CPfFZ9EG26ANdDVsy0eA8jnfsiEwC5XpdCUpa7tOhHtkDXfnBAOnbiU-5yAa0-D/pubhtml?gid=762639375&amp;single=true&amp;widget=true&amp;headers=false"
-    title="東京女子大学物理文献紹介2025 : 担当ルーティーン2025fy"
+    title="東京女子大学物理文献紹介2025 : 担当ルーティーン2026fy"
     loading="lazy"
     style="display:block; width:100%; height:85vh; min-height:560px; border:0;">
   </iframe>

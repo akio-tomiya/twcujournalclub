@@ -22,6 +22,11 @@
 - 隔週の火曜日、昼休み(12:30-13:10)
 - 途中入室、途中退室可
 
+# 発表予定・記録
+- [2025年度の発表記録](https://docs.google.com/spreadsheets/d/e/2PACX-1vRANwTp03Qosq2d9CPfFZ9EG26ANdDVsy0eA8jnfsiEwC5XpdCUpa7tOhHtkDXfnBAOnbiU-5yAa0-D/pubhtml?gid=0&single=true&headers=false)
+
+2026年度の担当ルーティーン:
+
 <div
   style="width:80vw; margin-left:calc(50% - 25vw); margin-right:calc(50% - 25vw);
          overflow-x:auto; -webkit-overflow-scrolling:touch;">
